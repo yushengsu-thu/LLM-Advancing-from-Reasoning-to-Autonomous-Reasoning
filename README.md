@@ -12,6 +12,7 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 - GPT-4 Doesn't Know It's Wrong: An Analysis of Iterative Prompting for Reasoning Problems
 - Can Large Language Models Really Improve by Self-critiquing Their Own Plans?
 - Language Models (Mostly) Know What They Know [1st]
+- Chen Danqi (Paper about self-evaluation)
 
 
 ## Other Methods
