@@ -4,6 +4,7 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 ## Can 
 - PROMPTAGENT: STRATEGIC PLANNING WITH LANGUAGE MODELS ENABLES EXPERT-LEVEL PROMPT OPTIMIZATION
 - LARGE LANGUAGE MODELS AS OPTIMIZERS [1st]
+- Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency
 
 
 ## Cannot 
