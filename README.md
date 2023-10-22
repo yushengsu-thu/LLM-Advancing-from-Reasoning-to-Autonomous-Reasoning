@@ -3,7 +3,7 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 
 ## Can 
 - PROMPTAGENT: STRATEGIC PLANNING WITH LANGUAGE MODELS ENABLES EXPERT-LEVEL PROMPT OPTIMIZATION
-- LARGE LANGUAGE MODELS AS OPTIMIZERS [1st]
+- LARGE LANGUAGE MODELS AS OPTIMIZERS (Use labeld feedback)
 - Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency
 
 
@@ -11,6 +11,7 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 - Large Language Models Cannot Self-Correct Reasoning Yet [1st]
 - GPT-4 Doesn't Know It's Wrong: An Analysis of Iterative Prompting for Reasoning Problems
 - Can Large Language Models Really Improve by Self-critiquing Their Own Plans?
+- Language Models (Mostly) Know What They Know [1st]
 
 
 ## Other Methods
