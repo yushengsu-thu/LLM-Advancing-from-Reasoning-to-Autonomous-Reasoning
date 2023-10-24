@@ -38,6 +38,6 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 - Define Reason
   - Self-correct, multiple step reasnong (can only know by the previous step), invlove interaction with the external or not
     
-- Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks
+- Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks (Seen and known != reasoning)
 - 
 
