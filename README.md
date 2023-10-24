@@ -14,7 +14,8 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 - LARGE LANGUAGE MODELS AS OPTIMIZERS (Use labeld feedback)
 - Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency
 - CRITIC: LARGE LANGUAGE MODELS CAN SELFCORRECT WITH TOOL-INTERACTIVE CRITIQUING (Use tool feedback)
-- HOW FAR ARE LARGE LANGUAGE MODELS FROM AGENTS WITH THEORY-OF-MIND? [1st !!!!] 
+- HOW FAR ARE LARGE LANGUAGE MODELS FROM AGENTS WITH THEORY-OF-MIND? [1st !!!!]
+- Large Language Models are Zero-Shot Reasoners [Only add: let's step by step]
 
 ## Cannot 
 - Large Language Models Cannot Self-Correct Reasoning Yet [1st !!!!] 
