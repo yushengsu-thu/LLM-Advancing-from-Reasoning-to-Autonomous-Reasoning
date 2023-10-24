@@ -21,7 +21,7 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 - Large Language Models are not Fair Evaluator
 
 ## Talk
-- Yann LeCun [World model, Reasoning, Planning](https://blog.csdn.net/xixiaoyaoww/article/details/129828453)
+- Yann LeCun: [World model, Reasoning, Planning](https://blog.csdn.net/xixiaoyaoww/article/details/129828453)
 
 
 ## Method Design
