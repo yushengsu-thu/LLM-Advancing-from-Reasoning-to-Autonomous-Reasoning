@@ -3,6 +3,7 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 
 ## NLP Evaluation Survey
 - [zhihu](https://zhuanlan.zhihu.com/p/644373658)
+- Subbarao Kambhampati [twitter](https://twitter.com/rao2z/status/1716257588768346328), [Google Schlar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=yl3L07sAAAAJ&sortby=pubdate&citft=1&email_for_op=yushengsu.thu%40gmail.com)
 
 ## Can 
 - PROMPTAGENT: STRATEGIC PLANNING WITH LANGUAGE MODELS ENABLES EXPERT-LEVEL PROMPT OPTIMIZATION
