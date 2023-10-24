@@ -4,8 +4,10 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 ## NLP Evaluation Survey
 - [zhihu](https://zhuanlan.zhihu.com/p/644373658)
 
+
 ## LLM Planning and Sequential Decision Making (Emperical Studies, Evaluation Framework)
 - Subbarao Kambhampati [twitter](https://twitter.com/rao2z/status/1716257588768346328), [Google Schlar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=yl3L07sAAAAJ&sortby=pubdate&citft=1&email_for_op=yushengsu.thu%40gmail.com)
+  - ON THE PLANNING ABILITIES OF LARGE LANGUAGE MODELS(A CRITICAL INVESTIGATION WITH A PROPOSED BENCHMARK) (Benchmark)
 
 ## Can 
 - PROMPTAGENT: STRATEGIC PLANNING WITH LANGUAGE MODELS ENABLES EXPERT-LEVEL PROMPT OPTIMIZATION
