@@ -44,5 +44,8 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
   - Self-correct, multiple step reasnong (can only know by the previous step), invlove interaction with the external or not
     
 - Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks (Seen and known != reasoning)
-- 
+
+## Reward Strategy (process-based and outcome-based feedback)
+- Solving math word problems with process- and outcome-based feedback (fine-tuning)
+- Let’s Verify Step by Step (refer to the anaysls and methods here)
 
