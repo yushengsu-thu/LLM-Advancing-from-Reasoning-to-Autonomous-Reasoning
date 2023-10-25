@@ -35,6 +35,10 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 - [Eliciting Human Preferences with Language Models](https://arxiv.org/abs/2310.11589)
 
 
+## Reasoning Survey
+- Towards Reasoning in Large Language Models: A Survey (Jie Huang)
+- Towards Complex Reasoning: the Polaris of Large Language Models - blog (Yao Fu) 
+
 ## Well-Define Reasoning
 - Define Reason
   - Self-correct, multiple step reasnong (can only know by the previous step), invlove interaction with the external or not
