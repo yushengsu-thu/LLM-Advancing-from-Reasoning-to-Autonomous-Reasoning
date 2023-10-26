@@ -49,3 +49,9 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 - Solving math word problems with process- and outcome-based feedback (fine-tuning)
 - Let’s Verify Step by Step (refer to the anaysls and methods here)
 
+## Conclusion
+- zero-shot chain-of-thought (works)
+- self-correct (doexn't work)
+- RL reward (works but has some limitation)
+    - TOOLCHAIN : EFFICIENT ACTION SPACE NAVIGATION IN LARGE LANGUAGE MODELS WITH A SEARCH (well illistrate the limitation)
+
