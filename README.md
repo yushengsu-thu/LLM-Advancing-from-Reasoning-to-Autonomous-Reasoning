@@ -18,7 +18,7 @@ In recent years, due to significant advancements in LLMs, there's been an observ
 
 <b>Note that 3</b>: Here are some open questions I am working on and thinking about. Feel free to raise issus and launch the discussion!
 
-[Q1]()
+[Q1](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#q1)
 
 [Q2]()
 
