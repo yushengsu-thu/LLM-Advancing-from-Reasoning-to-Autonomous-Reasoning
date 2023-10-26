@@ -24,7 +24,7 @@ In recent years, due to significant advancements in LLMs, there's been an observ
 
 
 
-<b>Note that 1</b>: I'm not the soley contributors of the following context. Many of following information are from my discussion with some researchers worked in this field and the published works ([Jie Huang](https://jeffhj.github.io/) and [Yao Fu](https://franxyao.github.io/)).
+<b>Note that 1</b>: I'm not the soley contributors of the following context. Many of following information are from my discussion with some researchers worked in this field and refer to some the published works ([Jie Huang](https://jeffhj.github.io/) and [Yao Fu](https://franxyao.github.io/)).
 
 <b>Note that 2</b>: The following discussions focus on LLMs reasoning on the inference stage.
 
