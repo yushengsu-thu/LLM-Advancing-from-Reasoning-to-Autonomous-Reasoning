@@ -55,3 +55,10 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 - RL reward (works but has some limitation)
     - TOOLCHAIN : EFFICIENT ACTION SPACE NAVIGATION IN LARGE LANGUAGE MODELS WITH A SEARCH (well illistrate the limitation)
 
+-----------------------------------
+
+## RL Reward and Limiation
+
+- TOOLCHAIN : EFFICIENT ACTION SPACE NAVIGATION IN LARGE LANGUAGE MODELS WITH A SEARCH
+
+
