@@ -102,7 +102,7 @@ It executes corresponding actions based on the plans made, and then, considering
 
 If the "Self-reward" approach (1) proves effective, it would be highly promising, suggesting that [OpenAI's Superalignment Team](https://openai.com/blog/introducing-superalignment) achieved their ultimate goal four years ahead of schedule (An AI model can supervise/teach/guide An AI model). However, some papers said it works and some papers said it doesn't work. Let's further disscuss in the following:
 
-<b>Note that (the implementation detail of Self-reward): We input the tasks (zero-shot) into the LLMs and ask the system whether the output is the correct answer. If not, we provide feedback, and based on that feedback, execute the next round of inference.</b>
+<b>Note that (the implementation detail of Self-reward): We input the tasks (zero-shot) into the LLMs and ask the system whether the output is the correct answer. If not, a LLM provides feedback, and based on that feedback, executes the next round of inference.</b>
 
 
 - Works
