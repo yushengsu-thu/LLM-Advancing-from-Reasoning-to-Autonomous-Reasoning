@@ -19,7 +19,7 @@ In recent years, due to significant advancements in LLMs, there's been an observ
 - [How to Evaluate LLM Reasoning](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#how-to-evaluate-llm-reasoning)
 - [From Reasoning to Autonomous Reasoning](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#from-reasoning-to-autonomous-reasoning)
   - [Self-reward / Self-correct](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#self-reward--self-correct)
-  - [Iterative-reward](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#iterative-reward)
+  - [Interactive-reward](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#interactive-reward)
 - [Reference](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#reference)
 
 
@@ -96,7 +96,7 @@ A: Actually, some researchers are working on this, but that metric based on sign
 Reasoning is the ability to make inferences, and automated reasoning is concerned with the building of computing mechanisms that automate this process [[12](https://plato.stanford.edu/entries/reasoning-automated/)]. Recently, in the LLM field, researchers see LLMs (Agents in the Figure) as a automated reasoning system and refer to the Reinforcement Learning (RL) paradigm to use them. Specifically, throughout the reasoning process, the LLM is perceived as the agent within this loop.
 ![0_RGGwVH_AjztI8Jn9](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/assets/11704492/5909cc26-9022-4b9c-ba64-244d8286f41a)
 
-It executes corresponding actions based on the plans made, and then, considering the current state and the reward obtained from the environment, it makes the subsequent decision automatically. How is the reward acquired from the environment? There are two primary paradigms: <b>(1. Self-reward) utilizing LLMs to self-generate rewards (we discussed this in the afternoon meetings)</b> and <b>(2. Iterative-reward) LLMs interacting with the environment (with/without tools) to obtain rewards</b>[[13](https://arxiv.org/abs/2305.11738), [14](https://arxiv.org/abs/2310.12931)].
+It executes corresponding actions based on the plans made, and then, considering the current state and the reward obtained from the environment, it makes the subsequent decision automatically. How is the reward acquired from the environment? There are two primary paradigms: <b>(1. Self-reward) utilizing LLMs to self-generate rewards (we discussed this in the afternoon meetings)</b> and <b>(2. Interactive-reward) LLMs interacting with the environment (with/without tools) to obtain rewards</b>[[13](https://arxiv.org/abs/2305.11738), [14](https://arxiv.org/abs/2310.12931)].
 
 ### Self-reward / Self-correct
 
@@ -145,9 +145,9 @@ Does self-correction without an external reward make sense or lead in the right 
 
 
 
-### Iterative-reward
+### Interactive-reward
 
-Compared to the self-reward / self-correct, LLM execute tools, coding, etc to get re-ward makes more sense and it have already verified in recent works [[14](https://arxiv.org/abs/2310.12931), [16](https://arxiv.org/abs/2310.13227)]. But ... Can State-of-the-art LLM (GPT-4) model interate with the open-world enviroment well (it tool usage ability is still limited in only some cases actually)? Besides, if we replace RL model with LLMs, can LLMs resolve the current facing problems in RL, such as re-ward sparsity......
+Compared to the self-reward / self-correct, LLM execute tools, coding, etc to get re-ward from the external enviroment makes more sense and it have already verified in recent works [[14](https://arxiv.org/abs/2310.12931), [16](https://arxiv.org/abs/2310.13227)]. But ... Can State-of-the-art LLM (GPT-4) model interate with the open-world enviroment well (it tool usage ability is still limited in only some cases actually)? Besides, if we replace RL model with LLMs, can LLMs resolve the current facing problems in RL, such as re-ward sparsity......
 
 [Haven't done yet ....]
 
