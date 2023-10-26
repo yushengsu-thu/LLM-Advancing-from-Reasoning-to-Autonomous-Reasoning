@@ -9,7 +9,7 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 - Subbarao Kambhampati [twitter](https://twitter.com/rao2z/status/1716257588768346328), [Google Schlar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=yl3L07sAAAAJ&sortby=pubdate&citft=1&email_for_op=yushengsu.thu%40gmail.com)
   - ON THE PLANNING ABILITIES OF LARGE LANGUAGE MODELS(A CRITICAL INVESTIGATION WITH A PROPOSED BENCHMARK) (Benchmark)
 
-## Can 
+## (Self-correct) Can 
 - PROMPTAGENT: STRATEGIC PLANNING WITH LANGUAGE MODELS ENABLES EXPERT-LEVEL PROMPT OPTIMIZATION
 - LARGE LANGUAGE MODELS AS OPTIMIZERS (Use labeld feedback)
 - Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency
@@ -17,7 +17,7 @@ This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this
 - HOW FAR ARE LARGE LANGUAGE MODELS FROM AGENTS WITH THEORY-OF-MIND? [1st !!!!]
 - Large Language Models are Zero-Shot Reasoners [Only add: let's step by step]
 
-## Cannot 
+## (Self-correct) Cannot 
 - Large Language Models Cannot Self-Correct Reasoning Yet [1st !!!!] 
 - GPT-4 Doesn't Know It's Wrong: An Analysis of Iterative Prompting for Reasoning Problems
 - Can Large Language Models Really Improve by Self-critiquing Their Own Plans?
