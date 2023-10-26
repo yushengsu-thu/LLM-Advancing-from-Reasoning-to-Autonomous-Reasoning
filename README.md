@@ -12,6 +12,16 @@ Hope to receive more feedback from all of you.
 
 In recent years, due to significant advancements in LLMs, there's been an observation that LLMs might demonstrate reasoning capabilities. In the subsequent sections, I'll provide some empirical survey detailing <b>how these models acquire reasoning abilities</b>, <b>the evaluation of LLM reasoning</b>, and <b>how to elicit reasoning from LLMs in the inference stage</b>. Finally, <b>I will discuss how to advance LLM from reasoning [[1](https://arxiv.org/pdf/2212.10403.pdf)] to autonomous reasoning [[2](https://www.youtube.com/watch?v=pd0JmT6rYcI)]</b>.
 
+- [Definiation of Reasoning]()
+- [How to Improve LLM Reasoning]()
+- [How to Evaluate LLM Reasoning]()
+- [From Reasoning to Autonomous Reasoning]()
+  - [Self-reward / Self-correct]()
+  - [Iterative-reward]()
+- [Reference]()
+
+
+
 <b>Note that 1</b>: I'm not the soley contributors of the following context. Many of following information are from my discussion with my friends and the published works ([Jie Huang](https://jeffhj.github.io/) and [Yao Fu](https://franxyao.github.io/)).
 
 <b>Note that 2</b>: The following discussions focus on LLMs reasoning on the inference stage.
@@ -20,11 +30,11 @@ In recent years, due to significant advancements in LLMs, there's been an observ
 
 [Q1](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#q1)
 
-[Q2]()
+[Q2](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#q2)
 
-[Q3]()
+[Q3](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#q3)
 
-[Q4]()
+[Q4](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#q4)
 
 <!-- This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this repository for the latest updates. Feel free to raise issus and launch the discussion! -->
 <!--
