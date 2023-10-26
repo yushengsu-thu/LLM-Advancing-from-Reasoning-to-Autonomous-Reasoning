@@ -1,28 +1,30 @@
 # LLM: Advancing from Reasoning to Autonomous Reasoning
 
+-----
+
 ## Preliminary
 
 Today's group meeting was awesome and inspired me regarding some questions I've been thinking lately.. Here, I provide some materials related to LLM reasoning topics regarding today disscussion. Additionally, I share some conclusions from a recent literature survey and results from empirical studies I've conducted to validate the effectiveness of current reasoning methods. 
-Hope to receive more feedback from all of you.
+Hope to receive more feedbacks.
 
 
-
+-----
 
 ## Abstract
 
 In recent years, due to significant advancements in LLMs, there's been an observation that LLMs might demonstrate reasoning capabilities. In the subsequent sections, I'll provide some empirical survey detailing <b>how these models acquire reasoning abilities</b>, <b>the evaluation of LLM reasoning</b>, and <b>how to elicit reasoning from LLMs in the inference stage</b>. Finally, <b>I will discuss how to advance LLM from reasoning [[1](https://arxiv.org/pdf/2212.10403.pdf)] to autonomous reasoning [[2](https://www.youtube.com/watch?v=pd0JmT6rYcI)]</b>.
 
-- [Definiation of Reasoning]()
-- [How to Improve LLM Reasoning]()
-- [How to Evaluate LLM Reasoning]()
-- [From Reasoning to Autonomous Reasoning]()
-  - [Self-reward / Self-correct]()
-  - [Iterative-reward]()
-- [Reference]()
+- [Definiation of Reasoning](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#definiation-of-reasoning)
+- [How to Improve LLM Reasoning](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#how-to-improve-llm-reasoning)
+- [How to Evaluate LLM Reasoning](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#how-to-evaluate-llm-reasoning)
+- [From Reasoning to Autonomous Reasoning](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#from-reasoning-to-autonomous-reasoning)
+  - [Self-reward / Self-correct](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#self-reward--self-correct)
+  - [Iterative-reward](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#iterative-reward)
+- [Reference](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/blob/main/README.md#reference)
 
 
 
-<b>Note that 1</b>: I'm not the soley contributors of the following context. Many of following information are from my discussion with my friends and the published works ([Jie Huang](https://jeffhj.github.io/) and [Yao Fu](https://franxyao.github.io/)).
+<b>Note that 1</b>: I'm not the soley contributors of the following context. Many of following information are from my discussion with some researchers worked in this field and the published works ([Jie Huang](https://jeffhj.github.io/) and [Yao Fu](https://franxyao.github.io/)).
 
 <b>Note that 2</b>: The following discussions focus on LLMs reasoning on the inference stage.
 
@@ -94,7 +96,7 @@ A: Actually, some researchers are working on this, but that metric based on sign
 Reasoning is the ability to make inferences, and automated reasoning is concerned with the building of computing mechanisms that automate this process [[12](https://plato.stanford.edu/entries/reasoning-automated/)]. Recently, in the LLM field, researchers see LLMs (Agents in the Figure) as a automated reasoning system and refer to the Reinforcement Learning (RL) paradigm to use them. Specifically, throughout the reasoning process, the LLM is perceived as the agent within this loop.
 ![0_RGGwVH_AjztI8Jn9](https://github.com/yushengsu-thu/LLM-Advancing-from-Reasoning-to-Autonomous-Reasoning/assets/11704492/5909cc26-9022-4b9c-ba64-244d8286f41a)
 
-It executes corresponding actions based on the plans made, and then, considering the current state and the reward obtained from the environment, it makes the subsequent decision automatically. How is the reward acquired from the environment? There are two primary paradigms: <b>(1. Self-reward) utilizing LLMs to self-generate rewards (we discussed this in the afternoon meetings)</b> and <b>(2. Iterative-reward) LLMs interacting with the environment (with/without tools) to obtain rewards</b>[[13](https://arxiv.org/abs/2305.11738),[14](https://arxiv.org/abs/2310.12931)].
+It executes corresponding actions based on the plans made, and then, considering the current state and the reward obtained from the environment, it makes the subsequent decision automatically. How is the reward acquired from the environment? There are two primary paradigms: <b>(1. Self-reward) utilizing LLMs to self-generate rewards (we discussed this in the afternoon meetings)</b> and <b>(2. Iterative-reward) LLMs interacting with the environment (with/without tools) to obtain rewards</b>[[13](https://arxiv.org/abs/2305.11738), [14](https://arxiv.org/abs/2310.12931)].
 
 ### Self-reward / Self-correct
 
