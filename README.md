@@ -1,4 +1,9 @@
-# LLM-Reasoning-and-SelfEvaluating
+# LLM: Advancing from Reasoning to Autonomous Reasoning
+
+
+
+
+
 This is a curated list of "LLM Reasoning and SelfEvaluating" research. Read this repository for the latest updates. Feel free to raise pull requests and launch the discussion!
 
 ## NLP Evaluation Survey
