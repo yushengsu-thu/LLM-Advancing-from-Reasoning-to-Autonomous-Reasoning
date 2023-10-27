@@ -1,7 +1,7 @@
 # LLM: Advancing from Reasoning to Autonomous Reasoning
 
 -----
-
+<!--
 ## Preliminary
 
 Today's group meeting was awesome and inspired me regarding some questions I've been thinking lately. Here, I provide some materials related to LLM reasoning topics regarding today disscussion. Additionally, I share some conclusions from a recent literature survey and results from empirical studies I've conducted to validate the effectiveness of current reasoning methods. 
@@ -9,6 +9,7 @@ Hope to receive more feedbacks.
 
 
 -----
+-->
 
 ## Abstract
 
